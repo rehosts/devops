@@ -2,6 +2,7 @@
 
 while true
 do	
+	echo "Today's date is `date`"
 	df -h
 	echo "Sleeping for 5 seconds."
 	echo "++++++++++++++++++++++++"
